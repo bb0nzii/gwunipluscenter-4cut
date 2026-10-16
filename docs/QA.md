@@ -109,3 +109,16 @@
 - 로컬 서버의 /_site/ 하위 경로에서 브라우저 로딩 성공. 프레임 4종 전환과 캔버스 크기, 스티커 12종 로딩 확인. 이미지 URL도 /_site/assets/...로 해석됨.
 - Ruby YAML 파서로 워크플로 문법 검사 및 workflow_dispatch만 사용하는 것 확인. 업로드 대상 _site 확인.
 - 실제 GitHub Actions 실행, 공개 GitHub Pages URL, HTTPS 및 실제 휴대폰 저장은 미검증. 공개 배포는 실행하지 않음.
+
+## 최초 공개 배포 검증 (2026-10-16)
+- 저장소가 비어 있음을 확인하고 main에 최초 커밋 f41b526 업로드. 강제 push 사용하지 않음. JPG 추적 파일 없음.
+- Pages를 workflow 방식으로 설정하고 Deploy GitHub Pages 수동 실행 성공.
+- 실행: https://github.com/bb0nzii/gwunipluscenter-4cut/actions/runs/38877428317
+- 공개 주소: https://bb0nzii.github.io/gwunipluscenter-4cut/
+- 공개된 웹 파일 3개·자산 17개를 다운로드해 로컬 _site와 해시 일치 확인.
+- 공개 사이트에서 README.md, docs/QA.md, docs/first-export.jpg, .DS_Store는 404 확인. 공개 저장소의 텍스트 문서는 저장소에서 열람 가능.
+- 프레임 4종 로딩 완료와 세로 1500×2250·가로 2250×1500 캔버스 크기, 스티커 12종 이미지 로딩 확인.
+- 사진 부족 안내, 테스트 사진 네 장 추가, 무궁화 추가·방향키 크기 변경·이동, 비둘기 추가 후 삭제 확인.
+- 합성 이미지 생성과 PNG 다운로드 성공. 다운로드 파일을 열어 1500×2250 PNG 확인.
+- 실제 휴대폰 터치 및 길게 눌러 저장은 미검증.
+- 이 기록과 README의 공개 상태 갱신은 문서 변경이며 웹 배포 결과물에는 포함되지 않음.
