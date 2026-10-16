@@ -1,0 +1,215 @@
+{
+  "frame": "assets/h_black.png",
+  "width": 1500,
+  "height": 2250,
+  "slots": [
+    {
+      "x": 89,
+      "y": 121,
+      "width": 648,
+      "height": 971
+    },
+    {
+      "x": 764,
+      "y": 121,
+      "width": 648,
+      "height": 971
+    },
+    {
+      "x": 89,
+      "y": 1119,
+      "width": 648,
+      "height": 971
+    },
+    {
+      "x": 764,
+      "y": 1119,
+      "width": 648,
+      "height": 971
+    }
+  ],
+  "stickers": [
+    {
+      "name": "더함이 1",
+      "src": "assets/deoham-1.svg"
+    },
+    {
+      "name": "더함이 2",
+      "src": "assets/deoham-2.svg"
+    },
+    {
+      "name": "더함이 3",
+      "src": "assets/deoham-3.svg"
+    },
+    {
+      "name": "더함이 4",
+      "src": "assets/deoham-4.svg"
+    },
+    {
+      "name": "다함이 1",
+      "src": "assets/daham-1.svg"
+    },
+    {
+      "name": "다함이 2",
+      "src": "assets/daham-2.svg"
+    },
+    {
+      "name": "다함이 3",
+      "src": "assets/daham-3.svg"
+    },
+    {
+      "name": "비둘기",
+      "src": "assets/pigeon.svg"
+    },
+    {
+      "name": "모양",
+      "src": "assets/shape.svg"
+    },
+    {
+      "name": "한반도",
+      "src": "assets/korea.svg"
+    },
+    {
+      "name": "한복",
+      "src": "assets/hanbok.svg"
+    },
+    {
+      "name": "무궁화",
+      "src": "assets/mugunghwa.svg"
+    }
+  ],
+  "frames": [
+    {
+      "id": "h_black",
+      "name": "검정 / 세로",
+      "frame": "assets/h_black.png",
+      "width": 1500,
+      "height": 2250,
+      "slots": [
+        {
+          "x": 89,
+          "y": 121,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 764,
+          "y": 121,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 89,
+          "y": 1119,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 764,
+          "y": 1119,
+          "width": 648,
+          "height": 971
+        }
+      ]
+    },
+    {
+      "id": "w_black",
+      "name": "검정 / 가로",
+      "frame": "assets/w_black.png",
+      "width": 2250,
+      "height": 1500,
+      "slots": [
+        {
+          "x": 141,
+          "y": 89,
+          "width": 971,
+          "height": 648
+        },
+        {
+          "x": 1139,
+          "y": 89,
+          "width": 971,
+          "height": 648
+        },
+        {
+          "x": 141,
+          "y": 764,
+          "width": 971,
+          "height": 648
+        },
+        {
+          "x": 1139,
+          "y": 764,
+          "width": 971,
+          "height": 648
+        }
+      ]
+    },
+    {
+      "id": "h_white",
+      "name": "하양 / 세로",
+      "frame": "assets/h_white.png",
+      "width": 1500,
+      "height": 2250,
+      "slots": [
+        {
+          "x": 89,
+          "y": 121,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 764,
+          "y": 121,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 89,
+          "y": 1119,
+          "width": 648,
+          "height": 971
+        },
+        {
+          "x": 764,
+          "y": 1119,
+          "width": 648,
+          "height": 971
+        }
+      ]
+    },
+    {
+      "id": "w_white",
+      "name": "하양 / 가로",
+      "frame": "assets/w_white.png",
+      "width": 2250,
+      "height": 1500,
+      "slots": [
+        {
+          "x": 138,
+          "y": 89,
+          "width": 975,
+          "height": 651
+        },
+        {
+          "x": 1140,
+          "y": 89,
+          "width": 975,
+          "height": 651
+        },
+        {
+          "x": 138,
+          "y": 767,
+          "width": 975,
+          "height": 651
+        },
+        {
+          "x": 1140,
+          "y": 767,
+          "width": 975,
+          "height": 651
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# macOS / editors
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# Local photos and screenshots (case insensitive)
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+# Secrets / generated files
+.env
+.env.*
+!.env.example
+*.log
+_site/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
